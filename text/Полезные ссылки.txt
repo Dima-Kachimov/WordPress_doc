@@ -1,0 +1,3 @@
+1) Генератор шаблонов https://underscores.me/
+2) Скачать WordPress https://ru.wordpress.org/download/
+3) Локальный сервер MAMP https://www.mamp.info/en/downloads/
